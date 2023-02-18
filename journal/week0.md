@@ -5,8 +5,8 @@
 - Post that was able to generate the alarm.
 - Downloaded the AWS SDK and set the AWS credentials locally.
 
--  Link to the Lucid chart
--  https://lucid.app/lucidchart/b8a294c2-a220-402c-9d03-cf3ce48d1290/edit?view_items=34ayBdpqBzq0&invitationId=inv_dea5c8ff-027b-4f9e-b6f8-38877eb81ad0
 
 
+![Cruddur Screenshot](assets/Architecture.png)
 
+-  Link to the Lucid chart - https://lucid.app/lucidchart/b8a294c2-a220-402c-9d03-cf3ce48d1290/edit?view_items=34ayBdpqBzq0&invitationId=inv_dea5c8ff-027b-4f9e-b6f8-38877eb81ad0
